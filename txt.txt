@@ -1,0 +1,6 @@
+1C:48:F9:A1:76:92 
+
+pacmd set-card-profile bluez_card.1C_48_F9_A1_76_92  headset_head_unit
+
+https://github.com/mathworks/Raspbian_OS_Setup/blob/master/README.md
+
